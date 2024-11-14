@@ -1,0 +1,4 @@
+<model-viewer src="banon.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1"><button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+</model-viewer>
